@@ -2,4 +2,4 @@ The Biblical Language Colorizer is a project inspired by my experience teaching 
 
 The purpose of this project is to create a simple interface for the colorization of vowels in text strings to be copy and pasted into other programs.
 
-The project is slated to be written in Python with a simple browser based interface.
+The project is slated to be written in Python with a simple browser based interface written in HTML.
